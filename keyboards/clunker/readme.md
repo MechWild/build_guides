@@ -12,7 +12,7 @@ Chaos is fun and clunky.
 - [Kit Contents](#contents)
 - [Step 0: Test and Flash Your Pro Micro](#step0)
 - [Step 1: Resistor](#step1)
-- [Step 2: Mosfet](#step2)
+- [Step 2: Transistor](#step2)
 - [Step 3: Pro Micro PINS (and only the pins)](#step3)
 - [Step 4: Reset Button](#step4)
 - [Step 5: Flyback Diode](#step5)
@@ -65,12 +65,28 @@ Note: You might have extras of some components. This is normal and is to account
 ### Components
 
 - Pro Micro
+![Pro Micro](pictures/parts/promicros.png?raw=true "Pro Micro")
+
 - Diodes (60)
+![Diodes (60)](pictures/parts/diodes.png?raw=true "Diodes (60)")
+
 - 1.5KOhm Resistor
-- TIP102 Mosfet
+![1.5KOhm Resistor](pictures/parts/resistor.png?raw=true "1.5KOhm Resistor")
+
+- TIP102 Transistor
+![TIP102 Transistor](pictures/parts/tip102.png?raw=true "TIP102 Transistor")
+
 - SR306 Flyback Diode
+![SR306 Flyback Diode](pictures/parts/sr306.png?raw=true "SR306 Flyback Diode")
+
 - Solenoid
-- Encoder & Knob
+![Solenoid](pictures/parts/solenoid.png?raw=true "Solenoid")
+
+- Encoder
+![Encoder](pictures/parts/encoder.png?raw=true "Encoder")
+
+- Knob
+![Knob](pictures/parts/knob.png?raw=true "Knob")
 
 ### Assembly Hardware
 
@@ -94,14 +110,17 @@ Note: You might have extras of some components. This is normal and is to account
 
 <a id="step2">
 
-# Step 2: Mosfet
-![Step 2: Mosfet](pictures/steps/step2-0.png?raw=true "Step 2: Mosfet")
+# Step 2: Transistor
+![Step 2: Transistor](pictures/steps/step2-0.png?raw=true "Step 2: Transistor")
+![Step 2: Transistor](pictures/steps/step2-2.png?raw=true "Step 2: Transistor")
 
 
 <a id="step3">
 
 # Step 3: Pro Micro PINS (and only the pins)
 ![Step 3: Pro Micro PINS (and only the pins)](pictures/steps/step3-0.png?raw=true "Step 3: Pro Micro PINS (and only the pins)")
+![Step 3: Pro Micro PINS (and only the pins)](pictures/steps/step3-1.png?raw=true "Step 3: Pro Micro PINS (and only the pins)")
+![Step 3: Pro Micro PINS (and only the pins)](pictures/steps/step3-2.png?raw=true "Step 3: Pro Micro PINS (and only the pins)")
 
 
 <a id="step4">
@@ -113,18 +132,24 @@ Note: You might have extras of some components. This is normal and is to account
 
 # Step 5: Flyback Diode
 ![Step 5: Flyback Diode](pictures/steps/step5-0.png?raw=true "Step 5: Flyback Diode")
-
+![Step 5: Flyback Diode](pictures/steps/step5-1.png?raw=true "Step 5: Flyback Diode")
 
 <a id="step6">
 
 # Step 6: Solenoid
 ![Step 6: Solenoid](pictures/steps/step6-0.png?raw=true "Step 6: Solenoid")
+![Step 6: Solenoid](pictures/steps/step6-1.png?raw=true "Step 6: Solenoid")
+![Step 6: Solenoid](pictures/steps/step6-2.png?raw=true "Step 6: Solenoid")
+![Step 6: Solenoid](pictures/steps/step6-3.png?raw=true "Step 6: Solenoid")
+![Step 6: Solenoid](pictures/steps/step6-4.png?raw=true "Step 6: Solenoid")
+![Step 6: Solenoid](pictures/steps/step6-5.png?raw=true "Step 6: Solenoid")
 
 
 <a id="step7">
 
 # Step 7: Diodes
 ![Step 7: Diodes](pictures/steps/step7-0.png?raw=true "Step 7: Diodes")
+![Step 7: Diodes](pictures/steps/step7-1.png?raw=true "Step 7: Diodes")
 
 
 <a id="step8">
@@ -143,6 +168,7 @@ Note: You might have extras of some components. This is normal and is to account
 
 # Step 10: That one switch that is in the way
 ![Step 10: That one switch that is in the way](pictures/steps/step10-0.png?raw=true "Step 10: That one switch that is in the way")
+![Step 10: That one switch that is in the way](pictures/steps/step10-1.png?raw=true "Step 10: That one switch that is in the way")
 
 
 <a id="step11">
@@ -161,6 +187,9 @@ Note: You might have extras of some components. This is normal and is to account
 
 # Step 13: Standoffs, Acrylic, Feet
 ![Step 13: Standoffs, Acrylic, Feet](pictures/steps/step13-0.png?raw=true "Step 13: Standoffs, Acrylic, Feet")
+![Step 13: Standoffs, Acrylic, Feet](pictures/steps/step13-1.png?raw=true "Step 13: Standoffs, Acrylic, Feet")
+![Step 13: Standoffs, Acrylic, Feet](pictures/steps/step13-2.png?raw=true "Step 13: Standoffs, Acrylic, Feet")
+![Step 13: Standoffs, Acrylic, Feet](pictures/steps/step13-3.png?raw=true "Step 13: Standoffs, Acrylic, Feet")
 
 
 <a id="step14">

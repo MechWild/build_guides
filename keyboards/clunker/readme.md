@@ -3,6 +3,9 @@
 
 Chaos is fun and clunky.
 
+![Finished Build](pictures/steps/step14-0.png?raw=true "Finished Build")
+
+
 # Table of Contents
 - [Required Tools and Components](#required)
 - [Recommended Tools](#recommended)
@@ -16,7 +19,7 @@ Chaos is fun and clunky.
 - [Step 6: Solenoid](#step6)
 - [Step 7: Diodes](#step7)
 - [Step 8: Encoder](#step8)
-- [Step 9: Stabilizer](#step9)
+- [Step 9: Stabilizers](#step9)
 - [Step 10: That one switch that is in the way](#step10)
 - [Step 11: Pro Micro](#step11)
 - [Step 12: The rest of the switches](#step12)
@@ -92,64 +95,76 @@ Note: You might have extras of some components. This is normal and is to account
 <a id="step2">
 
 # Step 2: Mosfet
+![Step 2: Mosfet](pictures/steps/step2-0.png?raw=true "Step 2: Mosfet")
 
 
 <a id="step3">
 
 # Step 3: Pro Micro PINS (and only the pins)
+![Step 3: Pro Micro PINS (and only the pins)](pictures/steps/step3-0.png?raw=true "Step 3: Pro Micro PINS (and only the pins)")
 
 
 <a id="step4">
 
 # Step 4: Reset Button
-
+![Step 4: Reset Button](pictures/steps/step4-0.png?raw=true "Step 4: Reset Button")
 
 <a id="step5">
 
 # Step 5: Flyback Diode
+![Step 5: Flyback Diode](pictures/steps/step5-0.png?raw=true "Step 5: Flyback Diode")
 
 
 <a id="step6">
 
 # Step 6: Solenoid
+![Step 6: Solenoid](pictures/steps/step6-0.png?raw=true "Step 6: Solenoid")
 
 
 <a id="step7">
 
 # Step 7: Diodes
+![Step 7: Diodes](pictures/steps/step7-0.png?raw=true "Step 7: Diodes")
 
 
 <a id="step8">
 
 # Step 8: Encoder
+![Step 8: Encoder](pictures/steps/step8-0.png?raw=true "Step 8: Encoder")
 
 
 <a id="step9">
 
-# Step 9: Stabilizer
+# Step 9: Stabilizers
+![Step 9: Stabilizers](pictures/steps/step9-0.png?raw=true "Step 9: Stabilizer")
 
 
 <a id="step10">
 
 # Step 10: That one switch that is in the way
+![Step 10: That one switch that is in the way](pictures/steps/step10-0.png?raw=true "Step 10: That one switch that is in the way")
 
 
 <a id="step11">
 
 # Step 11: Pro Micro
+![Step 11: Pro Micro](pictures/steps/step11-0.png?raw=true "Step 11: Pro Micro")
 
 
 <a id="step12">
 
 # Step 12: The rest of the switches
+![Step 12: The rest of the switches](pictures/steps/step12-0.png?raw=true "Step 12: The rest of the switches")
 
 
 <a id="step13">
 
 # Step 13: Standoffs, Acrylic, Feet
+![Step 13: Standoffs, Acrylic, Feet](pictures/steps/step13-0.png?raw=true "Step 13: Standoffs, Acrylic, Feet")
 
 
 <a id="step14">
 
 # Step 14: Keycaps
+![Step 14: Keycaps](pictures/steps/step14-0.png?raw=true "Step 14: Keycaps")
 

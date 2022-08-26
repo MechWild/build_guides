@@ -121,7 +121,7 @@ Note: You might have extras of some components. This is normal and is to account
 # Step 2: Transistor
 ![Step 2: Transistor](pictures/steps/step2-0.png?raw=true "Step 2: Transistor")
 
-![Step 2: Transistor](pictures/steps/step2-2.png?raw=true "Step 2: Transistor")
+![Step 2: Transistor](pictures/steps/step2-1.png?raw=true "Step 2: Transistor")
 
 
 <a id="step3">

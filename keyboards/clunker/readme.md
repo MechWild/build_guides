@@ -4,7 +4,7 @@
 Chaos is fun and clunky.
 
 # Table of Contents
-[Required Tools and Components](readme.md?plain=1#L22)
+[Required Tools and Components](#L22)
 Recommended Tools
 Kit Contents
 Step 0: Test and Flash Your Pro Micro

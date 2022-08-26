@@ -157,10 +157,10 @@ Note: You might have extras of some components. This is normal and is to account
 
 # Step 0: Test and Flash Your Pro Micro
 
-Firmware is available on our firmware repo, available here:
+Firmware is on our firmware repo, available here:
 [https://github.com/MechWild/mw_firmware/releases](https://github.com/MechWild/mw_firmware/releases)
 
-This guide will be moved to Github soon, but for now check out the guide here:
+This general guide will be moved to Github soon, but for now check out the guide here:
 [https://mechwild.com/guides/general/flashing-a-pro-micro/](https://mechwild.com/guides/general/flashing-a-pro-micro/)
 
 

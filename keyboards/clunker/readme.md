@@ -29,3 +29,53 @@ Solder Wire
  I recommend a thinner 63/37 rosin core solder wire. In this build I am using Kester Solder 63/37 .015 Dia. 
  Flush Cutters (THESE ARE ABSOLUTELY MANDATORY IN THIS GUIDE IN PARTICULAR)
 Small Phillips Head Screwdriver
+ 
+ 
+ Recommended Tools
+These tools are not necessary to complete the build, but might make the process a little easier for you or help you correct mistakes if you make them.
+
+Through-Hole leg bender forming tool
+Solder Sucker
+Solder Wick
+Switch Puller
+Kit Contents
+Note: You might have extras of some components. This is normal and is to account for small mistakes.
+
+The Big Stuff
+PCB
+
+Bottom
+
+Plate
+(if your purchased one)
+
+Components
+Blackpill
+
+Diodes (75)
+
+LEDs and 220 Ohm Resistors
+
+EEPROM and 10k Ohm Resistors
+Note: The base kit no longer includes EEPROM or resistors for the EEPROM. The base firmware now supports EEPROM emulation. If you would like to add the EEPROM on, please select the option for it when ordering.
+
+
+
+LED Strip
+(if you purchased one)
+
+Encoder and Knob
+(if you purchased one)
+
+Assembly Hardware
+Standoffs, Screws, and Bumpons
+This will contain:
+
+8x 8mm standoffs
+8x 10mm standoffs
+16x screws
+4x rubber bumpons (feet)
+
+Aluminum Cone Feet
+(if you purchased them)
+

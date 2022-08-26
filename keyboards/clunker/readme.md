@@ -65,28 +65,28 @@ Note: You might have extras of some components. This is normal and is to account
 ### Components
 
 - Pro Micro
-![Pro Micro](pictures/parts/promicros.png?raw=true "Pro Micro")
+    - ![Pro Micro](pictures/parts/promicros.png?raw=true "Pro Micro")
 
 - Diodes (60)
-![Diodes (60)](pictures/parts/diodes.png?raw=true "Diodes (60)")
+    - ![Diodes (60)](pictures/parts/diodes.png?raw=true "Diodes (60)")
 
 - 1.5KOhm Resistor
-![1.5KOhm Resistor](pictures/parts/resistor.png?raw=true "1.5KOhm Resistor")
+    - ![1.5KOhm Resistor](pictures/parts/resistor.png?raw=true "1.5KOhm Resistor")
 
 - TIP102 Transistor
-![TIP102 Transistor](pictures/parts/tip102.png?raw=true "TIP102 Transistor")
+    - ![TIP102 Transistor](pictures/parts/tip102.png?raw=true "TIP102 Transistor")
 
 - SR306 Flyback Diode
-![SR306 Flyback Diode](pictures/parts/sr306.png?raw=true "SR306 Flyback Diode")
+    - ![SR306 Flyback Diode](pictures/parts/sr306.png?raw=true "SR306 Flyback Diode")
 
 - Solenoid
-![Solenoid](pictures/parts/solenoid.png?raw=true "Solenoid")
+    - ![Solenoid](pictures/parts/solenoid.png?raw=true "Solenoid")
 
 - Encoder
-![Encoder](pictures/parts/encoder.png?raw=true "Encoder")
+    - ![Encoder](pictures/parts/encoder.png?raw=true "Encoder")
 
 - Knob
-![Knob](pictures/parts/knob.png?raw=true "Knob")
+    - ![Knob](pictures/parts/knob.png?raw=true "Knob")
 
 ### Assembly Hardware
 

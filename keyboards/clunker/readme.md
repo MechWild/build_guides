@@ -4,7 +4,7 @@
 Chaos is fun and clunky.
 
 # Table of Contents
-[Required Tools and Components](#L22)
+[Required Tools and Components](#required)
 Recommended Tools
 Kit Contents
 Step 0: Test and Flash Your Pro Micro
@@ -20,6 +20,7 @@ Step 9: RGB Strip
 Step 10: Finish up
 
 # Required Tools
+<a id="required">
 These tools and components are required to complete the project and are not included in the kit. The linked names of the components will generally link to a place where you can buy them.
 
 Soldering Iron

@@ -87,7 +87,7 @@ Note: You might have extras of some components. This is normal and is to account
 <a id="step1">
 
 # Step 1: Resistor
-
+![Step 1: Resistor](pictures/steps/step1-0?raw=true "Step 1: Resistor")
 
 <a id="step2">
 

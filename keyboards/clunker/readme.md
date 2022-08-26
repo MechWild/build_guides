@@ -59,8 +59,17 @@ Note: You might have extras of some components. This is normal and is to account
 
 ### The Big Stuff
 - PCB
+
+![PCB](pictures/parts/pcb.png?raw=true "PCB")
+
 - Bottom
+
+![Bottom](pictures/parts/bottom.png?raw=true "Bottom")
+
 - Plate
+
+![Plate](pictures/parts/plate.png?raw=true "Plate")
+
 
 ### Components
 
@@ -96,15 +105,42 @@ Note: You might have extras of some components. This is normal and is to account
 
 ![Knob](pictures/parts/knob.png?raw=true "Knob")
 
+- Reset Button
+
+![Reset Button](pictures/parts/button.png?raw=true "Reset Button")
+
+
 ### Assembly Hardware
 
 - 6x M2 8mm+3mm male female standoffs
+
+![M2 8mm+3mm](pictures/parts/standoff8mm_mf.png?raw=true "M2 8mm+3mm")
+
 - 7x M2 8mm female female standoffs
-- 3x 15mm standoff
-- 3x 12mm standoff
-- 6x 8mm screw
-- 14x 4mm screws
-- 4x rubber bumpons (feet)
+
+![M2 8mm](pictures/parts/standoff8mm.png?raw=true "M2 8mm")
+
+- 3x M2 15mm standoffs
+
+![M2 15mm](pictures/parts/standoff15mm.png?raw=true "M2 15mm")
+
+- 3x M2 12mm standoffs
+
+![M2 12mm](pictures/parts/standoff12mm.png?raw=true "M2 12mm")
+
+- 6x M2 8mm screws
+
+![M2 8mm screws](pictures/parts/longscrew.png?raw=true "M2 8mm screws")
+
+- 14x M2 4mm screws
+
+![M2 4mm screws](pictures/parts/shortscrew.png?raw=true "M2 4mm screws")
+
+- 4x Rubber bumpons (feet)
+
+![Rubber bumpons](pictures/parts/bumpons.png?raw=true "Rubber bumpons")
+
+
 
 <a id="step0">
 

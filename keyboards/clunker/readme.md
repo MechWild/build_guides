@@ -4,20 +4,20 @@
 Chaos is fun and clunky.
 
 # Table of Contents
-[Required Tools and Components](#required)
-[Recommended Tools](#recommended)
-[Kit Contents](#contents)
-[Step 0: Test and Flash Your Pro Micro](#step)
-[Step 1: Diodes](#step)
-[Step 2: EEPROM (U1), R1, R2](#step)
-[Step 3: Status LEDs, R3, R4](#step)
-[Step 4: Soldering the Blackpill](#step)
-[Step 5: Plug it in and test it](#step)
-[Step 6: Encoder (if your purchased one](#step)
-[Step 7: Put Standoffs on the PCB](#step)
-[Step 8: Put on your stabilizers and switches](#step)
-[Step 9: RGB Strip](#step)
-[Step 10: Finish up](#step)
+-[Required Tools and Components](#required)
+-[Recommended Tools](#recommended)
+-[Kit Contents](#contents)
+-[Step 0: Test and Flash Your Pro Micro](#step)
+-[Step 1: Diodes](#step)
+-[Step 2: EEPROM (U1), R1, R2](#step)
+-[Step 3: Status LEDs, R3, R4](#step)
+-[Step 4: Soldering the Blackpill](#step)
+-[Step 5: Plug it in and test it](#step)
+-[Step 6: Encoder (if your purchased one](#step)
+-[Step 7: Put Standoffs on the PCB](#step)
+-[Step 8: Put on your stabilizers and switches](#step)
+-[Step 9: RGB Strip](#step)
+-[Step 10: Finish up](#step)
 
 
 <a id="required">

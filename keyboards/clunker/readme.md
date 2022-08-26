@@ -21,6 +21,7 @@ Step 10: Finish up
 
 
 <a id="required">
+ 
 # Required Tools
 
 These tools and components are required to complete the project and are not included in the kit. The linked names of the components will generally link to a place where you can buy them.
@@ -34,6 +35,7 @@ Small Phillips Head Screwdriver
  
  
 <a id="recommended">
+ 
 # Recommended Tools
 These tools are not necessary to complete the build, but might make the process a little easier for you or help you correct mistakes if you make them.
 

@@ -70,85 +70,85 @@ Note: You might have extras of some components. This is normal and is to account
 ### The Big Stuff
 - PCB
 
-![PCB](pictures/parts/pcb.png?raw=true "PCB")
+![PCB](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/parts/pcb.png?raw=true "PCB")
 
 - Bottom
 
-![Bottom](pictures/parts/bottom.png?raw=true "Bottom")
+![Bottom](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/parts/bottom.png?raw=true "Bottom")
 
 - Plate
 
-![Plate](pictures/parts/plate.png?raw=true "Plate")
+![Plate](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/parts/plate.png?raw=true "Plate")
 
 
 ### Components
 
 - Pro Micro
 
-![Pro Micro](pictures/parts/promicros.png?raw=true "Pro Micro")
+![Pro Micro](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/parts/promicros.png?raw=true "Pro Micro")
 
 - Diodes (60)
 
-![Diodes (60)](pictures/parts/diodes.png?raw=true "Diodes (60)")
+![Diodes (60)](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/parts/diodes.png?raw=true "Diodes (60)")
 
 - 1.5KOhm Resistor
 
-![1.5KOhm Resistor](pictures/parts/resistor.png?raw=true "1.5KOhm Resistor")
+![1.5KOhm Resistor](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/parts/resistor.png?raw=true "1.5KOhm Resistor")
 
 - TIP102 Transistor
 
-![TIP102 Transistor](pictures/parts/tip102.png?raw=true "TIP102 Transistor")
+![TIP102 Transistor](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/parts/tip102.png?raw=true "TIP102 Transistor")
 
 - SR306 Flyback Diode
 
-![SR306 Flyback Diode](pictures/parts/sr306.png?raw=true "SR306 Flyback Diode")
+![SR306 Flyback Diode](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/parts/sr306.png?raw=true "SR306 Flyback Diode")
 
 - Solenoid
 
-![Solenoid](pictures/parts/solenoid.png?raw=true "Solenoid")
+![Solenoid](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/parts/solenoid.png?raw=true "Solenoid")
 
 - Encoder
 
-![Encoder](pictures/parts/encoder.png?raw=true "Encoder")
+![Encoder](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/parts/encoder.png?raw=true "Encoder")
 
 - Knob
 
-![Knob](pictures/parts/knob.png?raw=true "Knob")
+![Knob](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/parts/knob.png?raw=true "Knob")
 
 - Reset Button
 
-![Reset Button](pictures/parts/button.png?raw=true "Reset Button")
+![Reset Button](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/parts/button.png?raw=true "Reset Button")
 
 
 ### Assembly Hardware
 
 - 6x M2 8mm+3mm male female standoffs
 
-![M2 8mm+3mm](pictures/parts/standoff8mm_mf.png?raw=true "M2 8mm+3mm")
+![M2 8mm+3mm](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/parts/standoff8mm_mf.png?raw=true "M2 8mm+3mm")
 
 - 7x M2 8mm female female standoffs
 
-![M2 8mm](pictures/parts/standoff8mm.png?raw=true "M2 8mm")
+![M2 8mm](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/parts/standoff8mm.png?raw=true "M2 8mm")
 
 - 3x M2 15mm standoffs
 
-![M2 15mm](pictures/parts/standoff15mm.png?raw=true "M2 15mm")
+![M2 15mm](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/parts/standoff15mm.png?raw=true "M2 15mm")
 
 - 3x M2 12mm standoffs
 
-![M2 12mm](pictures/parts/standoff12mm.png?raw=true "M2 12mm")
+![M2 12mm](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/parts/standoff12mm.png?raw=true "M2 12mm")
 
 - 6x M2 8mm screws
 
-![M2 8mm screws](pictures/parts/longscrew.png?raw=true "M2 8mm screws")
+![M2 8mm screws](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/parts/longscrew.png?raw=true "M2 8mm screws")
 
 - 14x M2 4mm screws
 
-![M2 4mm screws](pictures/parts/shortscrew.png?raw=true "M2 4mm screws")
+![M2 4mm screws](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/parts/shortscrew.png?raw=true "M2 4mm screws")
 
 - 4x Rubber bumpons (feet)
 
-![Rubber bumpons](pictures/parts/bumpons.png?raw=true "Rubber bumpons")
+![Rubber bumpons](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/parts/bumpons.png?raw=true "Rubber bumpons")
 
 
 
@@ -166,7 +166,7 @@ This general guide will be moved to Github soon, but for now check out the guide
 <a id="step1">
 
 # Step 1: Resistor
-![Step 1: Resistor](pictures/steps/step1-0.png?raw=true "Step 1: Resistor")
+![Step 1: Resistor](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step1-0.png?raw=true "Step 1: Resistor")
 
 Yes. This first step is the easiest one. It doesn't matter which way this is facing.
 
@@ -176,11 +176,11 @@ Yes. This first step is the easiest one. It doesn't matter which way this is fac
 # Step 2: Transistor
 Bend the legs of the transistor to be about 90 degrees right around the part where the leg start to widen.
 
-![Step 2: Transistor](pictures/steps/step2-0.png?raw=true "Step 2: Transistor")
+![Step 2: Transistor](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step2-0.png?raw=true "Step 2: Transistor")
 
 Put it in the board and solder it in place (make sure to clip the excess legs with your flush cutters)
 
-![Step 2: Transistor](pictures/steps/step2-1.png?raw=true "Step 2: Transistor")
+![Step 2: Transistor](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step2-1.png?raw=true "Step 2: Transistor")
 
 
 <a id="step3">
@@ -191,17 +191,17 @@ Put it in the board and solder it in place (make sure to clip the excess legs wi
 
 ONLY SOLDER THE PINS INTO PLACE. DO NOT SOLDER THE PRO MICRO ON AS WELL YET. WE WILL BE DOING THAT LATER.
 
-![Step 3: Pro Micro PINS (and only the pins)](pictures/steps/step3-0.png?raw=true "Step 3: Pro Micro PINS (and only the pins)")
+![Step 3: Pro Micro PINS (and only the pins)](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step3-0.png?raw=true "Step 3: Pro Micro PINS (and only the pins)")
 
-![Step 3: Pro Micro PINS (and only the pins)](pictures/steps/step3-1.png?raw=true "Step 3: Pro Micro PINS (and only the pins)")
+![Step 3: Pro Micro PINS (and only the pins)](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step3-1.png?raw=true "Step 3: Pro Micro PINS (and only the pins)")
 
-![Step 3: Pro Micro PINS (and only the pins)](pictures/steps/step3-2.png?raw=true "Step 3: Pro Micro PINS (and only the pins)")
+![Step 3: Pro Micro PINS (and only the pins)](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step3-2.png?raw=true "Step 3: Pro Micro PINS (and only the pins)")
 
 
 <a id="step4">
 
 # Step 4: Reset Button
-![Step 4: Reset Button](pictures/steps/step4-0.png?raw=true "Step 4: Reset Button")
+![Step 4: Reset Button](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step4-0.png?raw=true "Step 4: Reset Button")
 
 Ok. I might have lied on step 1. This might be the easiest step.
 
@@ -212,11 +212,11 @@ Ok. I might have lied on step 1. This might be the easiest step.
 
 Bend the legs as close to the body of the diode as you can at around 90 degrees.
 
-![Step 5: Flyback Diode](pictures/steps/step5-0.png?raw=true "Step 5: Flyback Diode")
+![Step 5: Flyback Diode](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step5-0.png?raw=true "Step 5: Flyback Diode")
 
 The direction DOES matter for this one! The thick bar on the diode needs to match up with the line on the PCB!
 
-![Step 5: Flyback Diode](pictures/steps/step5-1.png?raw=true "Step 5: Flyback Diode")
+![Step 5: Flyback Diode](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step5-1.png?raw=true "Step 5: Flyback Diode")
 
 
 <a id="step6">
@@ -229,7 +229,7 @@ First, we will be cutting the end of the wires off the solenoid so that we still
 
 I then like to tie the wires into a loose knot so that it doesn't seem as long when put on the board.
 
-![Step 6: Solenoid](pictures/steps/step6-0.png?raw=true "Step 6: Solenoid")
+![Step 6: Solenoid](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step6-0.png?raw=true "Step 6: Solenoid")
 
 Then you will need to strip the very ends of the wires about 1/4" (5mm) or so and tin the tips. 
 
@@ -239,25 +239,25 @@ basically one solid piece instead of a bundle of wires that spreads apart.
 
 This will make it easier to solder to the PCB.
 
-![Step 6: Solenoid](pictures/steps/step6-1.png?raw=true "Step 6: Solenoid")
+![Step 6: Solenoid](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step6-1.png?raw=true "Step 6: Solenoid")
 
 Next we are going to put the wires through the holes from the top of the PCB, and solder the tinned ends from the bottom. 
 
 It does not matter which wire goes in which hole here.
 
-![Step 6: Solenoid](pictures/steps/step6-2.png?raw=true "Step 6: Solenoid")
+![Step 6: Solenoid](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step6-2.png?raw=true "Step 6: Solenoid")
 
 Now we will be securing the solenoid to the PCB. The solenoid has two threaded holes on the bottom that should align with the two holes on the PCB to the right of where you soldered the wires. Use the SHORT screws (4mm) to secure the solenoid by passing screws through the PCB from the bottom into the solenoid on the top side of the PCB.
 
-![Step 6: Solenoid](pictures/steps/step6-3.png?raw=true "Step 6: Solenoid")
+![Step 6: Solenoid](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step6-3.png?raw=true "Step 6: Solenoid")
 
 The bottom of the PCB near Huynh/Silly name logo should look like this for those screws once they are both in correctly
 
-![Step 6: Solenoid](pictures/steps/step6-4.png?raw=true "Step 6: Solenoid")
+![Step 6: Solenoid](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step6-4.png?raw=true "Step 6: Solenoid")
 
 At this point, I like to loosen up the knot a little and get it positioned in a way that I like that looks good. Make sure that the knot does not hit the metal plunger that extends out the back of the solenoid or it might affect the way it sounds.
 
-![Step 6: Solenoid](pictures/steps/step6-5.png?raw=true "Step 6: Solenoid")
+![Step 6: Solenoid](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step6-5.png?raw=true "Step 6: Solenoid")
 
 
 <a id="step7">
@@ -266,11 +266,11 @@ At this point, I like to loosen up the knot a little and get it positioned in a 
 
 This step is also easy, but time consuming. The direction of each diode matters and the black line on the diode should match up with the black line on the silkscreen on the PCB.
 
-![Step 7: Diodes](pictures/steps/step7-0.png?raw=true "Step 7: Diodes")
+![Step 7: Diodes](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step7-0.png?raw=true "Step 7: Diodes")
 
 Do them all. This is how it should look. Note that the Pro Micro is STILL not on the board, on purpose.
 
-![Step 7: Diodes](pictures/steps/step7-1.png?raw=true "Step 7: Diodes")
+![Step 7: Diodes](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step7-1.png?raw=true "Step 7: Diodes")
 
 
 <a id="step8">
@@ -279,7 +279,7 @@ Do them all. This is how it should look. Note that the Pro Micro is STILL not on
 
 If you are using an encoder, put it on now. If you are using a switch here instead, it can wait until step 12.
 
-![Step 8: Encoder](pictures/steps/step8-0.png?raw=true "Step 8: Encoder")
+![Step 8: Encoder](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step8-0.png?raw=true "Step 8: Encoder")
 
 
 <a id="step9">
@@ -292,7 +292,7 @@ If you are unsure about which holes go to which layouts, try doing a test fit be
 
 If you still can't figure it out, feel free to stop by our Discord server and ask for help.
 
-![Step 9: Stabilizers](pictures/steps/step9-0.png?raw=true "Step 9: Stabilizer")
+![Step 9: Stabilizers](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step9-0.png?raw=true "Step 9: Stabilizer")
 
 
 <a id="step10">
@@ -305,11 +305,11 @@ First thing I would like to point out, in case you forgot, is that switches go T
 
 I like to put several switches on the board around the corners and edges of the board. I DO NOT solder them in to place yet, and they are just there to keep the plate steady while I solder on the switch labeled "IMPORTANT!" in the picture below.
 
-![Step 10: That one switch that is in the way](pictures/steps/step10-0.png?raw=true "Step 10: That one switch that is in the way")
+![Step 10: That one switch that is in the way](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step10-0.png?raw=true "Step 10: That one switch that is in the way")
 
 Here is shot of the bottom where this switch is soldered into place, between the Pro Micro pins.
 
-![Step 10: That one switch that is in the way](pictures/steps/step10-1.png?raw=true "Step 10: That one switch that is in the way")
+![Step 10: That one switch that is in the way](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step10-1.png?raw=true "Step 10: That one switch that is in the way")
 
 
 <a id="step11">
@@ -322,7 +322,7 @@ Now we can solder the Pro Micro into place and test it. After you have it solder
 
 Bonus is that by testing it this way, you should be able to see if the solenoid works too.
 
-![Step 11: Pro Micro](pictures/steps/step11-0.png?raw=true "Step 11: Pro Micro")
+![Step 11: Pro Micro](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step11-0.png?raw=true "Step 11: Pro Micro")
 
 
 <a id="step12">
@@ -333,7 +333,7 @@ Once you know the Pro Micro and the rest of the components are working, you can 
 
 Please make sure to test before this step, because fixing things is WAY easier before it is fully assembled.
 
-![Step 12: The rest of the switches](pictures/steps/step12-0.png?raw=true "Step 12: The rest of the switches")
+![Step 12: The rest of the switches](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step12-0.png?raw=true "Step 12: The rest of the switches")
 
 
 <a id="step13">
@@ -346,21 +346,21 @@ For this step, you will first be using the 12mm standoffs, the 15mm standoffs, a
 
 As shown in this picture, you will be putting the screw part of the 8mm Male/Female standoff through the board from the bottom, and then attaching the 12mm and 15mm standoffs to it so that they fasten tightly to the PCB.
 
-![Step 13: Standoffs, Acrylic, Feet](pictures/steps/step13-0.png?raw=true "Step 13: Standoffs, Acrylic, Feet")
+![Step 13: Standoffs, Acrylic, Feet](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step13-0.png?raw=true "Step 13: Standoffs, Acrylic, Feet")
 
 As shown here, the taller acrylic piece is supported by the 15mm standoffs, and the shorter piece uses the 12mm standoffs. Use the long screws (8mm) to attach the acrylic to the top of the long standoffs.
 
-![Step 13: Standoffs, Acrylic, Feet](pictures/steps/step13-1.png?raw=true "Step 13: Standoffs, Acrylic, Feet")
+![Step 13: Standoffs, Acrylic, Feet](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step13-1.png?raw=true "Step 13: Standoffs, Acrylic, Feet")
 
 The other 3 standoffs we will be putting on the board go in the following positions. Circled are the pass through holes that you will be putting the screw through and then attaching the 8mm standoffs to the bottom here. Note that these are the regular standoffs that have threaded holes on both ends and not the Male/Female ones.
 
-![Step 13: Standoffs, Acrylic, Feet](pictures/steps/step13-2.png?raw=true "Step 13: Standoffs, Acrylic, Feet")
+![Step 13: Standoffs, Acrylic, Feet](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step13-2.png?raw=true "Step 13: Standoffs, Acrylic, Feet")
 
 Flip the board over, attach the bottom to all the standoffs in the positions marked here, and then throw your rubber bumpons on the corners to use as feet. 
 
 If you bought the aluminum feet to get it an angle, use the two larger holes that haven't been used yet to attach those with their included mounting screw.
 
-![Step 13: Standoffs, Acrylic, Feet](pictures/steps/step13-3.png?raw=true "Step 13: Standoffs, Acrylic, Feet")
+![Step 13: Standoffs, Acrylic, Feet](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step13-3.png?raw=true "Step 13: Standoffs, Acrylic, Feet")
 
 
 <a id="step14">
@@ -369,5 +369,5 @@ If you bought the aluminum feet to get it an angle, use the two larger holes tha
 
 Keycap it up and get clunkin'.
 
-![Step 14: Keycaps](pictures/steps/step14-0.png?raw=true "Step 14: Keycaps")
+![Step 14: Keycaps](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step14-0.png?raw=true "Step 14: Keycaps")
 

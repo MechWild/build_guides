@@ -3,8 +3,7 @@
 
 Chaos is fun and clunky.
 
-![Finished Build](pictures/steps/step14-0.png?raw=true "Finished Build")
-
+![Finished Build](https://raw.githubusercontent.com/MechWild/build_guides/main/keyboards/clunker/pictures/steps/step14-0.png "Finished Build")
 
 # Table of Contents
 - [Disclaimer](#disclaimer)

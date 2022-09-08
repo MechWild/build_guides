@@ -6,7 +6,7 @@ Chaos is fun and clunky.
 ![Finished Build](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step14-0.png?raw=true "Finished Build")
 
 # Table of Contents
-- [Disclaimer](#disclaimer)
+- [Disclaimer](#user-content-disclaimer)
 - [Required Tools and Components](#required)
 - [Recommended Tools](#recommended)
 - [Kit Contents](#contents)

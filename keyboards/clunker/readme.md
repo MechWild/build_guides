@@ -174,6 +174,8 @@ Yes. This first step is the easiest one. It doesn't matter which way this is fac
 <a id="step2">
 
 # Step 2: Transistor
+The direction does matter for this one! The black side must face up; not the metal base plate!
+
 Bend the legs of the transistor to be about 90 degrees right around the part where the leg start to widen.
 
 ![Step 2: Transistor](https://github.com/MechWild/build_guides/blob/main/keyboards/clunker/pictures/steps/step2-0.png?raw=true "Step 2: Transistor")

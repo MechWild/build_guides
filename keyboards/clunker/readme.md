@@ -225,7 +225,7 @@ The direction DOES matter for this one! The thick bar on the diode needs to matc
 
 Well, here we go. The most complicated step. Read through this entire step before cutting anything!
 
-First, we will be cutting the end of the wires off the solenoid so that we still have 1 to 2 inches (3mm to 5mm) of slack. 
+First, we will be cutting the end of the wires off the solenoid so that we still have 1 to 2 inches (3 to 5 cm) of slack. 
 
 I then like to tie the wires into a loose knot so that it doesn't seem as long when put on the board.
 

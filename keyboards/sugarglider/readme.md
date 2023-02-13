@@ -9,22 +9,23 @@ It can do almost anything you can think of between touchpad and steno.
 - [Required Tools and Components](#user-content-required)
 - [Recommended Tools](#user-content-recommended)
 - [Kit Contents](#user-content-contents)
-- [Step 0: Test and Flash Your Pro Micro](#user-content-step0)
-- [Step 1: Resistor](#user-content-step1)
-- [Step 2: Transistor](#user-content-step2)
-- [Step 3: Pro Micro PINS (and only the pins)](#user-content-step3)
-- [Step 4: Reset Button](#user-content-step4)
-- [Step 5: Flyback Diode](#user-content-step5)
-- [Step 6: Solenoid](#user-content-step6)
-- [Step 7: Diodes](#user-content-step7)
-- [Step 8: Encoder](#user-content-step8)
-- [Step 9: Stabilizers](#user-content-step9)
-- [Step 10: That one switch that is in the way](#user-content-step10)
-- [Step 11: Pro Micro](#user-content-step11)
-- [Step 12: The rest of the switches](#user-content-step12)
-- [Step 13: Standoffs, Acrylic, Feet](#user-content-step13)
-- [Step 14: Keycaps](#user-content-step14)
-
+- [Step 0: Test and Flash Your BlackPill](#user-content-step0)
+- [Step 1: OLED Headers (AND ONLY HEADERS)](#user-content-step1)
+- [Step 2: Diodes](#user-content-step2)
+- [Step 3: Buttons](#user-content-step3)
+- [Step 4: LED Resistors](#user-content-step4)
+- [Step 5: Status LEDs (READ ENTIRE STEP)](#user-content-step5)
+- [Step 6: GPIO Expander Resistors](#user-content-step6)
+- [Step 7: GPIO Expander IC Socket](#user-content-step7)
+- [Step 8: BlackPill](#user-content-step8)
+- [Step 9: OLED](#user-content-step9)
+- [Step 10: Prep the Nugget](#user-content-step10)
+- [Step 11: Solder your switches (and encoders if you are using them)!](#user-content-step11)
+- [Step 12: Solder the Nugget](#user-content-step12)
+- [Step 13: Mounting the TouchPad](#user-content-step13)
+- [Step 14: Ribbon Cable](#user-content-step14)
+- [Step 15: GPIO Expander](#user-content-step15)
+- [Step 16: Case Assembly Hardware](#user-content-step16)
 
 
 <a id="required">
@@ -301,6 +302,8 @@ Now we need to connect the Nugget to the touchpad. This is easier once it is all
 
 ![Step 14: Ribbon Cable](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/steps/step14.png?raw=true "Step 14: Ribbon Cable")
 
+<a id="step15">
+
 # Step 15: GPIO Expander
 
 The GPIO expander need to be inserted into the socket you soldered in step 7. The notch on the expander aligns with the notch on the top of the socket. The pins will be a little too wide for the socket, so you will need to bend them in slightly (do it gently.)
@@ -308,6 +311,8 @@ The GPIO expander need to be inserted into the socket you soldered in step 7. Th
 Make sure it is fully seated in the socket and that the pins arent bent up and that they are fully inserted in the socket. Should look like this from the top.
 
 ![Step 15: GPIO Expander](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/steps/step15.png?raw=true "Step 15: GPIO Expander")
+
+<a id="step16">
 
 # Step 16: Case Assembly Hardware
 

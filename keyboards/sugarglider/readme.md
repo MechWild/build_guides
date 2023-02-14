@@ -316,7 +316,7 @@ Make sure it is fully seated in the socket and that the pins arent bent up and t
 
 # Step 16: Case Assembly Hardware
 
-NEEDS TO BE TYPED UP BECAUSE I FORGOT PICS. PUT ON STANDOFFS AND FEET. THROW KEYCAPS ON AND PARTY.
+Now you will go ahead and put the rest of the long standoffs in the following positions on the bottom of the board. Once that is done, you can put the screws in through the bottom plate to secure it to the standoffs and complete the case. Make sure to use your bumpon feet to prevent screws from potentially scratching your desktop and also to keep it from sliding around. There are 8 bumpons included in the kit and I recommend they go in the positions shown below:
 
 ![Step 16: Case Assembly Hardware](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/steps/step16.png?raw=true "Step 16: Case Assembly Hardware")
 

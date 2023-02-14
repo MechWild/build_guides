@@ -123,8 +123,6 @@ Note: You might have extras of some components. This is normal and is to account
 
 ![Buttons](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/parts/button.png?raw=true "Buttons")
 
--
-
 
 ### Assembly Hardware
 
@@ -135,10 +133,6 @@ Note: You might have extras of some components. This is normal and is to account
 - 4x M2 3mm male female standoffs
 
 ![M2 3mm male female standoffs](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/parts/3mm.png?raw=true "M2 3mm male female standoffs")
-
-- 3x M2 12mm standoffs
-
-![M2 12mm](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/parts/standoff12mm.png?raw=true "M2 12mm")
 
 - 4x M2 6mm screws
 
@@ -185,7 +179,7 @@ An easy but time consuming step. The direction of each diode matters and the bla
 
 ![Step 2: Diodes](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/steps/step2.png?raw=true "Step 2: Diodes")
 
-Solder them in place, flip it to the front of the board, and clip the excess legs with your flush cutters.
+Solder them in place, clip the excess legs with your flush cutters, then flip it back to the front of the board and admire your handiwork.
 
 <a id="step3">
 

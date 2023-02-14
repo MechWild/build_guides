@@ -3,7 +3,7 @@ Colstag + Touchpad + Thumb Clusters + OLED + Knobs
 
 It can do almost anything you can think of between touchpad and steno.
 
-![Finished Build](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/steps/finished.png?raw=true "Finished Build")
+![Finished Build](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/steps/finished.png?raw=true "Finished Build")
 
 # Table of Contents
 - [Required Tools and Components](#user-content-required)
@@ -62,89 +62,89 @@ Note: You might have extras of some components. This is normal and is to account
 ### The Big Stuff
 - PCB
 
-![PCB](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/parts/pcb.png?raw=true "PCB")
+![PCB](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/parts/pcb.png?raw=true "PCB")
 
 - Bottom
 
-![Bottom](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/parts/bottom.png?raw=true "Bottom")
+![Bottom](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/parts/bottom.png?raw=true "Bottom")
 
 - Plates
 
-![Plates](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/parts/plate.png?raw=true "Plates")
+![Plates](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/parts/plate.png?raw=true "Plates")
 
 
 ### Components
 
 - BlackPill
 
-![BlackPill](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/parts/blackpill.png?raw=true "BlackPill")
+![BlackPill](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/parts/blackpill.png?raw=true "BlackPill")
 
 - Diodes (60)
 
-![Diodes (60)](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/parts/diodes.png?raw=true "Diodes (60)")
+![Diodes (60)](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/parts/diodes.png?raw=true "Diodes (60)")
 
 - 10KOhm Resistor
 
-![10KOhm Resistor](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/parts/10k_resistors.png?raw=true "10KOhm Resistor")
+![10KOhm Resistor](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/parts/10k_resistors.png?raw=true "10KOhm Resistor")
 
 - 220 Ohm Resistor
 
-![220 Ohm Resistor](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/parts/220_resistors.png?raw=true "220 Ohm Resistor")
+![220 Ohm Resistor](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/parts/220_resistors.png?raw=true "220 Ohm Resistor")
 
 - LEDs
 
-![LEDs](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/parts/leds.png?raw=true "LEDs")
+![LEDs](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/parts/leds.png?raw=true "LEDs")
 
 - OLED
 
-![OLED](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/parts/oled.png?raw=true "OLED")
+![OLED](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/parts/oled.png?raw=true "OLED")
 
 - GPIO Expander and IC Socket
 
-![GPIO Expander and IC Socket](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/parts/gpio.png?raw=true "GPIO Expander and IC Socket")
+![GPIO Expander and IC Socket](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/parts/gpio.png?raw=true "GPIO Expander and IC Socket")
 
 - Acrylic Mounting Rings
 
-![Acrylic Mounting Rings](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/parts/mount_acrylic.png?raw=true "Acrylic Mounting Rings")
+![Acrylic Mounting Rings](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/parts/mount_acrylic.png?raw=true "Acrylic Mounting Rings")
 
 - Nugget and Touchpad pack
 
-![Nugget and Touchpad pack](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/parts/nugget_and_touchpad.png?raw=true "Nugget and Touchpad pack")
+![Nugget and Touchpad pack](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/parts/nugget_and_touchpad.png?raw=true "Nugget and Touchpad pack")
 
 - Encoders
 
-![Encoders](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/parts/encoder.png?raw=true "Encoders")
+![Encoders](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/parts/encoder.png?raw=true "Encoders")
 
 - Knob
 
-![Knob](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/parts/knob.png?raw=true "Knob")
+![Knob](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/parts/knob.png?raw=true "Knob")
 
 - Buttons
 
-![Buttons](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/parts/button.png?raw=true "Buttons")
+![Buttons](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/parts/button.png?raw=true "Buttons")
 
 
 ### Assembly Hardware
 
 - 12x M2 12mm standoffs
 
-![M2 12mm standoffs](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/parts/12mm.png?raw=true "M2 12mm standoffs")
+![M2 12mm standoffs](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/parts/12mm.png?raw=true "M2 12mm standoffs")
 
 - 4x M2 3mm male female standoffs
 
-![M2 3mm male female standoffs](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/parts/3mm.png?raw=true "M2 3mm male female standoffs")
+![M2 3mm male female standoffs](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/parts/3mm.png?raw=true "M2 3mm male female standoffs")
 
 - 4x M2 6mm screws
 
-![M2 6mm screws](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/parts/6mm_screws.png?raw=true "M2 6mm screws")
+![M2 6mm screws](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/parts/6mm_screws.png?raw=true "M2 6mm screws")
 
 - 20x M2 4mm screws
 
-![M2 4mm screws](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/parts/4mm_screws.png?raw=true "M2 4mm screws")
+![M2 4mm screws](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/parts/4mm_screws.png?raw=true "M2 4mm screws")
 
 - 8x Rubber bumpons (feet)
 
-![Rubber bumpons](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/parts/bumpons.png?raw=true "Rubber bumpons")
+![Rubber bumpons](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/parts/bumpons.png?raw=true "Rubber bumpons")
 
 
 
@@ -166,7 +166,7 @@ Now we will try and flash the Blackpill using QMK toolbox (or your tool of choic
 
 # Step 1: OLED Headers (AND ONLY HEADERS)
 
-![Step 1: OLED Headers](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/steps/step1.png?raw=true "Step 1: OLED Headers ")
+![Step 1: OLED Headers](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/steps/step1.png?raw=true "Step 1: OLED Headers ")
 
 For the first step, you are going to solder the OLED headers to the top of the PCB (the top of the PCB does not have an outline around where the BlackPill sits.) We are doing this because it makes it easier to attach the OLED later on once the other parts are in place.
 
@@ -177,7 +177,7 @@ For the first step, you are going to solder the OLED headers to the top of the P
 
 An easy but time consuming step. The direction of each diode matters and the black line on the diode should match up with the black line (or white line on black PCBs) on the silkscreen on the PCB. Make sure each diode is on the bottom of the PCB.
 
-![Step 2: Diodes](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/steps/step2.png?raw=true "Step 2: Diodes")
+![Step 2: Diodes](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/steps/step2.png?raw=true "Step 2: Diodes")
 
 Solder them in place, clip the excess legs with your flush cutters, then flip it back to the front of the board and admire your handiwork.
 
@@ -187,7 +187,7 @@ Solder them in place, clip the excess legs with your flush cutters, then flip it
 
 Put the buttons in the place marked for them on the top of the PCB. Flip the board, and solder them into place. The legs of the buttons go out the left and right side, so make sure they are oriented to go in that way.
 
-![Step 3: Buttons](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/steps/step3.png?raw=true "Step 3: Buttons")
+![Step 3: Buttons](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/steps/step3.png?raw=true "Step 3: Buttons")
 
 <a id="step4">
 
@@ -195,7 +195,7 @@ Put the buttons in the place marked for them on the top of the PCB. Flip the boa
 
 You will have 3 220 Ohm resistors in your kit. They are marked with RED-RED-BLACK-BLACK-BROWN as the band colors. The direction they face doesn't matter and they go in positions R1, R2, R3 on the bottom of the PCB.
 
-![Step 4: LED Resistors](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/steps/step4.png?raw=true "Step 4: LED Resistors")
+![Step 4: LED Resistors](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/steps/step4.png?raw=true "Step 4: LED Resistors")
 
 <a id="step5">
 
@@ -203,7 +203,7 @@ You will have 3 220 Ohm resistors in your kit. They are marked with RED-RED-BLAC
 
 The LEDs that the resistors are for go on top of the PCB and NORMALLY would align the flat edge of the LED with the silkscreen, however, the footprint for the LEDs was flipped for the initial production run and the LEDs need to go backwards from how they normally should be. That means you will have the flat edge of the LED facing away from the flat edge on the silkscreen. The direction for this step matters very much.
 
-![Step 5: Status LEDs](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/steps/step5.png?raw=true "Step 5: Status LEDs")
+![Step 5: Status LEDs](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/steps/step5.png?raw=true "Step 5: Status LEDs")
 
 <a id="step6">
 
@@ -211,7 +211,7 @@ The LEDs that the resistors are for go on top of the PCB and NORMALLY would alig
 
 Basically the same deal as the LED resistors, but these are a different value (10KOhm) so are marked with BROWN-BLACK-BLACK-RED-BROWN colored bands. The direction of these doesn't matter. I like putting these on the top of the board but they could go on the bottom if you wanted. These should be placed in positions R4 and R5.
 
-![Step 6: GPIO Expander Resistors](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/steps/step6.png?raw=true "Step 6: GPIO Expander Resistors")
+![Step 6: GPIO Expander Resistors](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/steps/step6.png?raw=true "Step 6: GPIO Expander Resistors")
 
 <a id="step7">
 
@@ -219,7 +219,7 @@ Basically the same deal as the LED resistors, but these are a different value (1
 
 Simple step. Direction matters. There is a little notch on one of the short ends of the socket's edge. That should face upwards. The socket goes on the top of the PCB next to the resistors from the previous step. 
 
-![Step 7: GPIO Expander IC Socket](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/steps/step7.png?raw=true "Step 7: GPIO Expander IC Socket")
+![Step 7: GPIO Expander IC Socket](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/steps/step7.png?raw=true "Step 7: GPIO Expander IC Socket")
 
 <a id="step8">
 
@@ -227,7 +227,7 @@ Simple step. Direction matters. There is a little notch on one of the short ends
 
 Now we put the BlackPill on the board. It goes on the bottom of the PCB and has the components face outwards (down) so that you can still push the buttons on it after it is soldered in place. USB port goes upwards, so it can be accessed.
 
-![Step 8: BlackPill](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/steps/step8.png?raw=true "Step 8: BlackPill")
+![Step 8: BlackPill](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/steps/step8.png?raw=true "Step 8: BlackPill")
 
 <a id="step9">
 
@@ -235,7 +235,7 @@ Now we put the BlackPill on the board. It goes on the bottom of the PCB and has 
 
 Now we put the OLED on those pins we soldered in the first step. No matter which style of OLED you have (narrow or wide one)it will face upwards towards the top edge of the board from the pins.
 
-![Step 9: OLED](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/steps/step9.png?raw=true "Step 9: OLED")
+![Step 9: OLED](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/steps/step9.png?raw=true "Step 9: OLED")
 
 <a id="step10">
 
@@ -245,7 +245,7 @@ The Nugget and touchpad mounting ring will come attached to each other with brea
 
 Check out the red circled bits below for what need to be cleaned up.
 
-![Step 10: Prep the Nugget](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/steps/step10.png?raw=true "Step 10: Prep the Nugget")
+![Step 10: Prep the Nugget](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/steps/step10.png?raw=true "Step 10: Prep the Nugget")
 
 <a id="step11">
 
@@ -266,7 +266,7 @@ Please make sure to test before this step, because fixing things is WAY easier b
 Nugget goes under one of the switches at the bottom of the board, on the bottom of the PCB. It needs to be aligned so the 1 and 7 pin labels on the Nugget match the 1 and 7 pin labels on the PCB silkscreen.
 You will ONLY be soldering the two rows of 6 pins on the left and right sides and not the row of 4 or 5 that are on top or bottom of the Nugget. 
 
-![Step 12: Solder the Nugget](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/steps/step12.png?raw=true "Step 12: Solder the Nugget")
+![Step 12: Solder the Nugget](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/steps/step12.png?raw=true "Step 12: Solder the Nugget")
 
 <a id="step13">
 
@@ -274,19 +274,19 @@ You will ONLY be soldering the two rows of 6 pins on the left and right sides an
 
 There are two positions for the touchpad to be mounted. I will be using the top position for this guide. The short 3mm standoffs will go on the top of the board with female side facing upwards, and will be secured in place by a 10mm standoff screwed on the the male portion on the bottom of the PCB. There are 4 3mm standoff spots for each position that form a square shape. 
 
-![Step 13: Mounting the TouchPad](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/steps/step13-0.png?raw=true "Step 13: Mounting the TouchPad")
+![Step 13: Mounting the TouchPad](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/steps/step13-0.png?raw=true "Step 13: Mounting the TouchPad")
 
 Then you should be able to place the acrylic on the standoffs like so:
 
-![Step 13: Mounting the TouchPad](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/steps/step13-1.png?raw=true "Step 13: Mounting the TouchPad")
+![Step 13: Mounting the TouchPad](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/steps/step13-1.png?raw=true "Step 13: Mounting the TouchPad")
 
 The touchpad itself fits snugly inside the white ring that was around the Nugget from step 10. There is a small tab inside the ring that goes in to a small slot in the lip of the touchpad. Align then as such and then place it on top of the acrylic mounting ring with the tab position on the left side as you look at it:
 
-![Step 13: Mounting the TouchPad](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/steps/step13-2.png?raw=true "Step 13: Mounting the TouchPad")
+![Step 13: Mounting the TouchPad](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/steps/step13-2.png?raw=true "Step 13: Mounting the TouchPad")
 
 Sandwich the mounting ring by placing the other acrylic ring on top of it and then screwing it into place with the 6mm screws.
 
-![Step 13: Mounting the TouchPad](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/steps/step13-3.png?raw=true "Step 13: Mounting the TouchPad")
+![Step 13: Mounting the TouchPad](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/steps/step13-3.png?raw=true "Step 13: Mounting the TouchPad")
 
 <a id="step14">
 
@@ -294,7 +294,7 @@ Sandwich the mounting ring by placing the other acrylic ring on top of it and th
 
 Now we need to connect the Nugget to the touchpad. This is easier once it is all mounted, which is why we are tackling it now. The grey lip on the ribbon connector on the Nugget itself will flip up a little. Slide one end of the ribbon cable (silver contacts facing down) into the connector and make sure it is aligned as straight-on with the connector as you can. Seat it properly, then close the connector tab. Then you will bring the cable up to the hole in the PCB that allows access to the ribbon cable mount on the touchpad itself. The contacts on the ribbon cable here will face to the right. Get a good grip and insert it in the mount as straight on as you can. 
 
-![Step 14: Ribbon Cable](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/steps/step14.png?raw=true "Step 14: Ribbon Cable")
+![Step 14: Ribbon Cable](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/steps/step14.png?raw=true "Step 14: Ribbon Cable")
 
 <a id="step15">
 
@@ -304,7 +304,7 @@ The GPIO expander need to be inserted into the socket you soldered in step 7. Th
 
 Make sure it is fully seated in the socket and that the pins arent bent up and that they are fully inserted in the socket. Should look like this from the top.
 
-![Step 15: GPIO Expander](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/steps/step15.png?raw=true "Step 15: GPIO Expander")
+![Step 15: GPIO Expander](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/steps/step15.png?raw=true "Step 15: GPIO Expander")
 
 <a id="step16">
 
@@ -312,5 +312,5 @@ Make sure it is fully seated in the socket and that the pins arent bent up and t
 
 Now you will go ahead and put the rest of the long standoffs in the following positions on the bottom of the board. Once that is done, you can put the screws in through the bottom plate to secure it to the standoffs and complete the case. Make sure to use your bumpon feet to prevent screws from potentially scratching your desktop and also to keep it from sliding around. There are 8 bumpons included in the kit and I recommend they go in the positions shown below:
 
-![Step 16: Case Assembly Hardware](https://github.com/MechWild/build_guides/blob/sugarglider/keyboards/sugarglider/pictures/steps/step16.png?raw=true "Step 16: Case Assembly Hardware")
+![Step 16: Case Assembly Hardware](https://github.com/MechWild/build_guides/blob/main/keyboards/sugarglider/pictures/steps/step16.png?raw=true "Step 16: Case Assembly Hardware")
 

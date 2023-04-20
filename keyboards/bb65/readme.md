@@ -1,8 +1,6 @@
 # BB65 Build Guide
 A completely normal BlackPill-powered 65% DIY kit.
 
-It can do almost anything you can think of between touchpad and steno.
-
 ![Finished Build](https://github.com/MechWild/build_guides/blob/bb65/keyboards/bb65/pictures/steps/finished.png?raw=true "Finished Build")
 
 # Table of Contents

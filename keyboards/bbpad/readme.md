@@ -244,4 +244,4 @@ Put the bottom on and then the four rubber feet. If this side is too busy for yo
 
 All done! Enjoy!
 
-![Step 11: Finished](https://github.com/MechWild/build_guides/blob/bbpad/keyboards/bbpad/pictures/steps/10-0.png?raw=true "Step 11: Finished")
+![Step 11: Finished](https://github.com/MechWild/build_guides/blob/bbpad/keyboards/bbpad/pictures/steps/finished.png?raw=true "Step 11: Finished")

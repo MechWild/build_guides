@@ -16,9 +16,9 @@ A completely normal BlackPill-powered DIY numpad kit.
 - [Step 6: Testing Time](#user-content-step6)
 - [Step 7: Standoffs](#user-content-step7)
 - [Step 8: Switches](#user-content-step8)
-- [Step 9: Acrylic Guard](#user-content-step8)
-- [Step 10: Bottom and Feet](#user-content-step8)
-- [Step 11: Finished](#user-content-step8)
+- [Step 9: Acrylic Guard](#user-content-step9)
+- [Step 10: Bottom and Feet](#user-content-step10)
+- [Step 11: Finished](#user-content-step11)
 
 
 <a id="required">
@@ -238,7 +238,7 @@ Put the bottom on and then the four rubber feet. If this side is too busy for yo
 
 ![Step 10: Bottom and Feet](https://github.com/MechWild/build_guides/blob/main/keyboards/bbpad/pictures/steps/10-0.png?raw=true "Step 10: Bottom and Feet")
 
-<a id="step10">
+<a id="step11">
 
 # Step 11: Finished
 

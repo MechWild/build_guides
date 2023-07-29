@@ -241,4 +241,7 @@ All done! Put the keycaps on then have your cat check it over for approval. Enjo
 
 ![Step 11: Keycaps and Submit For Inspection](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/steps/finished.png?raw=true "Step 11: Keycaps and Submit For Inspection")
 
+
+Inspection time!
+
 ![Step 11: Keycaps and Submit For Inspection](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/steps/inspected.png?raw=true "Step 11: Keycaps and Submit For Inspection")

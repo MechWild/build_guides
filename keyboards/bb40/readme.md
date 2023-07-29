@@ -1,7 +1,7 @@
 # BB40 Build Guide
 A completely normal BlackPill-powered DIY 40% kit.
 
-![Finished Build](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/steps/finished.png?raw=true "Finished Build")
+![Finished Build](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/steps/finished.png?raw=true "Finished Build")
 
 # Table of Contents
 - [Required Tools and Components](#user-content-required)
@@ -55,65 +55,65 @@ Note: You might have extras of some components. This is normal and is to account
 ### The Big Stuff
 - PCB
 
-![PCB](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/parts/pcb.png?raw=true "PCB")
+![PCB](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/parts/pcb.png?raw=true "PCB")
 
 - Bottom
 
-![Bottom](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/parts/bottom.png?raw=true "Bottom")
+![Bottom](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/parts/bottom.png?raw=true "Bottom")
 
 - Plate
 
-![Plate](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/parts/plate.png?raw=true "Plate")
+![Plate](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/parts/plate.png?raw=true "Plate")
 
 
 ### Components
 
 - BlackPill
 
-![BlackPill](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/parts/blackpill.png?raw=true "BlackPill")
+![BlackPill](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/parts/blackpill.png?raw=true "BlackPill")
 
 - 45x Diodes
 
-![Diodes](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/parts/diodes.png?raw=true "Diodes")
+![Diodes](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/parts/diodes.png?raw=true "Diodes")
 
 - Encoder
 
-![Encoder](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/parts/encoder.png?raw=true "Encoder")
+![Encoder](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/parts/encoder.png?raw=true "Encoder")
 
 - Knob
 
-![Knob](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/parts/knob.png?raw=true "Knob")
+![Knob](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/parts/knob.png?raw=true "Knob")
 
 
 ### Assembly Hardware
 
 - Acrylic Guard
 
-![Acrylic Guard](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/parts/acrylic.png?raw=true "Acrylic Guard")
+![Acrylic Guard](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/parts/acrylic.png?raw=true "Acrylic Guard")
 
 - 2x M2 10mm female-female standoffs
 
-![M2 10mm standoffs](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/parts/10mm.png?raw=true "M2 10mm standoffs")
+![M2 10mm standoffs](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/parts/10mm.png?raw=true "M2 10mm standoffs")
 
 - 2x M2 8mm male-female standoffs
 
-![M2 8mm male female standoffs](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/parts/8mm_m_f.png?raw=true "M2 8mm male female standoffs")
+![M2 8mm male female standoffs](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/parts/8mm_m_f.png?raw=true "M2 8mm male female standoffs")
 
 - 4x M2 8mm female-female standoffs
 
-![M2 8mm standoffs](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/parts/8mm.png?raw=true "M2 8mm standoffs")
+![M2 8mm standoffs](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/parts/8mm.png?raw=true "M2 8mm standoffs")
 
 - 2x M2 6mm screws
 
-![M2 6mm screws](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/parts/6mm_screws.png?raw=true "M2 6mm screws")
+![M2 6mm screws](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/parts/6mm_screws.png?raw=true "M2 6mm screws")
 
 - 10x M2 4mm screws
 
-![M2 4mm screws](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/parts/4mm_screws.png?raw=true "M2 4mm screws")
+![M2 4mm screws](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/parts/4mm_screws.png?raw=true "M2 4mm screws")
 
 - 4x Rubber bumpons (feet)
 
-![Rubber bumpons](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/parts/bumpons.png?raw=true "Rubber bumpons")
+![Rubber bumpons](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/parts/bumpons.png?raw=true "Rubber bumpons")
 
 
 
@@ -137,9 +137,9 @@ Now we will try and flash the Blackpill using QMK toolbox (or your tool of choic
 
 The orientation of the diode matters! Black line on the diode should line up with the line on the silkscreen drawing underneath it. Diodes go on the bottom of the PCB (the side opposite the side where the switches go in).
 
-![Step 1: Diodes](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/steps/1-0.png?raw=true "Step 1: Diodes")
+![Step 1: Diodes](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/steps/1-0.png?raw=true "Step 1: Diodes")
 
-![Step 1: Diodes](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/steps/1-1.png?raw=true "Step 1: Diodes")
+![Step 1: Diodes](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/steps/1-1.png?raw=true "Step 1: Diodes")
 
 <a id="step2">
 
@@ -147,9 +147,9 @@ The orientation of the diode matters! Black line on the diode should line up wit
 
 Orientation of the resistors doesn't matter here. Just make sure they are in the right spot, and it will probably look better if they are all facing the same direction.
 
-![Step 2: Resistors](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/steps/2-0.png?raw=true "Step 2: Resistors")
+![Step 2: Resistors](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/steps/2-0.png?raw=true "Step 2: Resistors")
 
-![Step 2: Resistors](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/steps/2-1.png?raw=true "Step 2: Resistors")
+![Step 2: Resistors](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/steps/2-1.png?raw=true "Step 2: Resistors")
 
 <a id="step3">
 
@@ -159,9 +159,9 @@ Put on the BlackPill or PillBug (your choice, I socketed here like I normally do
 
 Components face upwards with the USB port facing to the top right corner of the keyboard.
 
-![Step 3: BlackPill/PillBug](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/steps/3-0.png?raw=true "Step 3: BlackPill/PillBug")
+![Step 3: BlackPill/PillBug](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/steps/3-0.png?raw=true "Step 3: BlackPill/PillBug")
 
-![Step 3: BlackPill/PillBug](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/steps/3-1.png?raw=true "Step 3: BlackPill/PillBug")
+![Step 3: BlackPill/PillBug](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/steps/3-1.png?raw=true "Step 3: BlackPill/PillBug")
 
 <a id="step4">
 
@@ -169,9 +169,9 @@ Components face upwards with the USB port facing to the top right corner of the 
 
 Status LEDs now! The easy way to tell which is which is that the long leg of the LED goes in the hole closest to the edge of the board. The pictures below highlight which is which. No real order specifically required, but when I do 3 color status LEDs like this, I like to do Red, Green, Blue from the top. 
 
-![Step 4: Status LEDs](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/steps/4-0.png?raw=true "Step 4: Status LEDs")
+![Step 4: Status LEDs](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/steps/4-0.png?raw=true "Step 4: Status LEDs")
 
-![Step 4: Status LEDs](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/steps/4-1.png?raw=true "Step 4: Status LEDs")
+![Step 4: Status LEDs](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/steps/4-1.png?raw=true "Step 4: Status LEDs")
 
 <a id="step5">
 
@@ -179,7 +179,7 @@ Status LEDs now! The easy way to tell which is which is that the long leg of the
 
 Now is the time to put on the encoder if you are using one. I put one in for the picture, but removed it for my personal build I am doing in this guide, so don't be confused if it isn't shown again.
 
-![Step 5: Encoder](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/steps/5-0.png?raw=true "Step 5: Encoder")
+![Step 5: Encoder](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/steps/5-0.png?raw=true "Step 5: Encoder")
 
 <a id="step6">
 
@@ -193,7 +193,7 @@ Now is the time to use your tweezers to test all the switch positions that you n
 
 Go ahead and put all the switches and stabilizers you are using on now. Importantly, you will want to make sure that you put your stabilizers on before soldering switches, and the switches go THROUGH the switchplate before being soldered as well.
 
-![Step 7: Stabs/Switches](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/steps/7-0.png?raw=true "Step 7: Stabs/Switches")
+![Step 7: Stabs/Switches](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/steps/7-0.png?raw=true "Step 7: Stabs/Switches")
 
 <a id="step8">
 
@@ -201,19 +201,19 @@ Go ahead and put all the switches and stabilizers you are using on now. Importan
 
 Simple step with lots of small parts. Start off with the two mount points for the acrylic guard. I find it easiest for these to hold them on one side and just screw the other side on with my other hand like shown in the pictures here. NOTE: The standoffs you are using on the top side where the acrylic mounts are going to be slightly longer than the others in the bag!
 
-![Step 8: Standoffs](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/steps/8-0.png?raw=true "Step 8: Standoffs")
+![Step 8: Standoffs](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/steps/8-0.png?raw=true "Step 8: Standoffs")
 
 Then you will need to pass a screw through the plate with your screwdriver, and screw the standoffs on from the other side.
 
-![Step 8: Standoffs](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/steps/8-1.png?raw=true "Step 8: Standoffs")
+![Step 8: Standoffs](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/steps/8-1.png?raw=true "Step 8: Standoffs")
 
-![Step 8: Standoffs](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/steps/8-2.png?raw=true "Step 8: Standoffs")
+![Step 8: Standoffs](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/steps/8-2.png?raw=true "Step 8: Standoffs")
 
-![Step 8: Standoffs](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/steps/8-3.png?raw=true "Step 8: Standoffs")
+![Step 8: Standoffs](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/steps/8-3.png?raw=true "Step 8: Standoffs")
 
 Do that for all the holes, so that when you flip it to look at the bottom (like this next pic) you will see 6 total standoffs to screw the bottom on with.
 
-![Step 8: Standoffs](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/steps/8-4.png?raw=true "Step 8: Standoffs")
+![Step 8: Standoffs](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/steps/8-4.png?raw=true "Step 8: Standoffs")
 
 <a id="step9">
 
@@ -221,7 +221,7 @@ Do that for all the holes, so that when you flip it to look at the bottom (like 
 
 Put the bottom on and then the four rubber feet into the corners.
 
-![Step 9: Bottom and Feet](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/steps/9-0.png?raw=true "Step 9: Bottom and Feet")
+![Step 9: Bottom and Feet](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/steps/9-0.png?raw=true "Step 9: Bottom and Feet")
 
 <a id="step10">
 
@@ -229,7 +229,7 @@ Put the bottom on and then the four rubber feet into the corners.
 
 Install the acrylic guard now. If it has blue film on it (it probably does by default) then peel it off first.
 
-![Step 10: Acrylic Guard](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/steps/10-0.png?raw=true "Step 10: Acrylic Guard")
+![Step 10: Acrylic Guard](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/steps/10-0.png?raw=true "Step 10: Acrylic Guard")
 
 Guard on!
 
@@ -239,9 +239,9 @@ Guard on!
 
 All done! Put the keycaps on then have your cat check it over for approval. Enjoy!
 
-![Step 11: Keycaps and Submit For Inspection](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/steps/finished.png?raw=true "Step 11: Keycaps and Submit For Inspection")
+![Step 11: Keycaps and Submit For Inspection](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/steps/finished.png?raw=true "Step 11: Keycaps and Submit For Inspection")
 
 
 Inspection time!
 
-![Step 11: Keycaps and Submit For Inspection](https://github.com/MechWild/build_guides/blob/bb40/keyboards/bb40/pictures/steps/inspected.png?raw=true "Step 11: Keycaps and Submit For Inspection")
+![Step 11: Keycaps and Submit For Inspection](https://github.com/MechWild/build_guides/blob/main/keyboards/bb40/pictures/steps/inspected.png?raw=true "Step 11: Keycaps and Submit For Inspection")

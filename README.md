@@ -7,6 +7,7 @@ Build guides for MechWild keyboard kits.
 - [BBPad](keyboards/bbpad)
 - [Clunker](keyboards/clunker)
 - [Sugar Glider](keyboards/sugarglider)
+- [BBS](keyboards/bbs)
 
 # General Guides
 - Coming Soon
